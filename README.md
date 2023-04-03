@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, and welcome to my profile!
 
 <!--
 **gwbbs/gwbbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Hey there!**
+I'm gwbbs, an high school student based in Rome.
+I'm currently working on **play.gwbbs.space**, my own personal minecraft server!
+Here are some things that I am learning and looking forward to use into my personal projects.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,c,lua,discord,linux" />
+  </a>
+</p>

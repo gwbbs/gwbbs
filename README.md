@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Hey there!**
 I'm gwbbs, an high school student based in Rome.
-I'm currently working on **play.gwbbs.space**, my own personal minecraft server!
+I'm currently working on **play.gwbbs.space**, my minecraft server!
 Here are some things that I am learning and looking forward to use into my personal projects.
 <p align="center">
   <a href="https://skillicons.dev">

@@ -31,4 +31,14 @@ I have got lots of hobbies and one of my favourite is reading.
     <img src="https://skillicons.dev/icons?i=py,js,html,css,c,lua,discord,linux" />
   </a>
 </p>
-  
+ </div>
+<div> 
+  <h1> What do I own: </h1>
+  <h3> Nintendo Switch </h3>
+  <p>Currently on emuMMC with a custom firmware. Firmware 16.0.1 / A.M.S 1.5.1 </p>
+  <h3> PS4 Pro </h3>
+  <p>Probably switching to a PS5 soon, been using this console since I was a kid. <br> I enjoy playing the new COD saga here.</p>
+  <h3> Xbox 360 </h3>
+  <p>Literally my childhood, where I met one of my best friends.<br> Enjoyed the moments of BO2 and trickshot era.</p>
+  <h3> PC </h3>
+  <p>Should I even consider adding this to the list? kinda obvious nah?<br><img src ="https://i.imgur.com/gdbepXe.png"/></p>

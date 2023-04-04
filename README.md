@@ -28,7 +28,7 @@ I have got lots of hobbies and one of my favourite is reading.
   <p> Well well, I've been into the programming world for about 1 year and half as 04/04/2023.<br> But what are my capabilities?</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,c,lua,discord,linux" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,c,lua,discord,linux" />
   </a>
 </p>
   

@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Poppins&weight=500&size=25&duration=3200&pause=400&color=CEC0F7&multiline=true&width=550&height=100&lines=Welcome+to+my+profile!;Feel+free+to+look+at+my+projects." alt="Typing SVG" /></a>
 
-<
